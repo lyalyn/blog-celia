@@ -1,7 +1,7 @@
 module.exports = {
-  title: 'Vredeburg',
-  description: 'Eleventy starter project to create a blog',
-  keywords: ['eleventy', 'template', 'simple', 'clean'],
+  title: 'Le blog de Célia',
+  description: "Le blog d'une Maman Maîtresse",
+  keywords: ['blog', 'bébé', 'école'],
   // your site url without trailing slash
   url: 'https://vredeburg.netlify.app',
   // how many posts you want to show for each page
