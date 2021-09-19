@@ -7,16 +7,37 @@ tags:
     - histoires
 ---
 
-Bienvenue dans mon premier post!
+Bienvenue dans mon premier post! Il sert de démo pour voir le rendu de la typographie sur le site.
 
-# J'ai plein d'idées
+# Titre 1
 
-Ce blog peut servir à **plein** de choses, *encore* à définir:
+## Titre 2
 
-* Raconter mes expériences de porte-bébés
-* Raconter mes perles de maternelle
-* Tout ce qui viendra d'autre...
+### Titre 3
 
-## Sources
+#### Titre 4
 
-Il est hébergé sur [github](https://github.com/lyalyn/blog-celia).
+##### Titre 5
+
+###### Titre 6
+
+
+Voici du **gras**, de l'*italique*, du ~~barré~~.
+
+* Une
+* liste
+
+1. Une
+1. liste
+1. ordonnée
+
+> Une citation - *anonyme*
+
+[Un lien](https://github.com/lyalyn/blog-celia).
+
+Un tableau:
+
+| Name  | Age   |
+| ----- | ----- |
+| Bob   | 27	   |
+| Alice | 23	   |
